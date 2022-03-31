@@ -6,4 +6,4 @@
 
 [hashex abi](https://abi.hashex.org/)
 
-[parsec.finance](https://parsec.finance) 
+[parsec.finance](https://app.parsec.finance/) 
