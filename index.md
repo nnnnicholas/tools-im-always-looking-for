@@ -2,6 +2,8 @@
 
 [4byte.directory](https://www.4byte.directory/)
 
-[functino selector decoder](https://function-selector-decoder.vercel.app/)
+[function selector decoder](https://function-selector-decoder.vercel.app/)
+
+[hashex abi](https://abi.hashex.org/)
 
 [parsec.finance](https://parsec.finance) 
