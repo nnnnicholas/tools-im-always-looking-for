@@ -1,0 +1,15 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 error pnpm": {
+    "code": "ERR_PNPM_CANNOT_REMOVE_MISSING_DEPS",
+    "hint": "Available dependencies: hardhat",
+    "err": {
+      "name": "pnpm",
+      "message": "Cannot remove 'tsc': no such dependency found",
+      "code": "ERR_PNPM_CANNOT_REMOVE_MISSING_DEPS",
+      "stack": "pnpm: Cannot remove 'tsc': no such dependency found\n    at Object.handler (/Users/nico/.nvm/versions/node/v16.13.0/pnpm-global/5/node_modules/.pnpm/pnpm@6.24.2/node_modules/pnpm/dist/pnpm.cjs:119655:15)\n    at async /Users/nico/.nvm/versions/node/v16.13.0/pnpm-global/5/node_modules/.pnpm/pnpm@6.24.2/node_modules/pnpm/dist/pnpm.cjs:183648:21\n    at async run (/Users/nico/.nvm/versions/node/v16.13.0/pnpm-global/5/node_modules/.pnpm/pnpm@6.24.2/node_modules/pnpm/dist/pnpm.cjs:183622:34)\n    at async runPnpm (/Users/nico/.nvm/versions/node/v16.13.0/pnpm-global/5/node_modules/.pnpm/pnpm@6.24.2/node_modules/pnpm/dist/pnpm.cjs:183834:5)\n    at async /Users/nico/.nvm/versions/node/v16.13.0/pnpm-global/5/node_modules/.pnpm/pnpm@6.24.2/node_modules/pnpm/dist/pnpm.cjs:183826:7"
+    }
+  }
+}
