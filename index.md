@@ -2,6 +2,10 @@
 
 [4byte.directory](https://www.4byte.directory/)
 
+[evm.codes](https://evm.codes/)
+
+[samczsun sigs](https://sig.eth.samczsun.com/)
+
 [function selector decoder](https://function-selector-decoder.vercel.app/)
 
 [calldata decoder](https://apoorvlathey.com/eth-calldata-decoder/)
