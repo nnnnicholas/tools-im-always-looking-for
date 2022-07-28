@@ -6,6 +6,8 @@
 
 [samczsun sigs](https://sig.eth.samczsun.com/)
 
+[input data decoder](https://lab.miguelmota.com/ethereum-input-data-decoder/example/)
+
 [function selector decoder](https://function-selector-decoder.vercel.app/)
 
 [calldata decoder](https://apoorvlathey.com/eth-calldata-decoder/)
