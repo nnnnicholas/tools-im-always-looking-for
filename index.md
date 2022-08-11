@@ -17,3 +17,5 @@
 [parsec.finance](https://app.parsec.finance/) 
 
 [impersonator](https://www.impersonator.xyz/)
+
+[free rpc nodes](https://ethereumnodes.com/)
