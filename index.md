@@ -1,12 +1,12 @@
-### tools i'm always looking for
+## tools i'm always looking for
 
-#### abi
+### abi
 
 [abi for unverified contracts](https://abi.w1nt3r.xyz/)
 
 [4byte.directory](https://www.4byte.directory/)
 
-#### fn selectors
+### fn selectors
 
 [function selector decoder](https://function-selector-decoder.vercel.app/)
 
@@ -16,23 +16,23 @@
 
 [hashex abi](https://abi.hashex.org/)
 
-#### tx.data
+### tx.data
 
 [input data decoder](https://lab.miguelmota.com/ethereum-input-data-decoder/example/)
 
 [calldata decoder](https://apoorvlathey.com/eth-calldata-decoder/)
 
-#### wallet tricks
+### wallet tricks
 
 [ens2hex](https://ens2hex.vercel.app/)
 
 [impersonator](https://www.impersonator.xyz/)
 
-#### analytics
+### analytics
 
 [parsec.finance](https://app.parsec.finance/) 
 
-#### chains
+### chains
 
 [free rpc nodes](https://ethereumnodes.com/)
 
