@@ -1,28 +1,40 @@
 ### tools i'm always looking for
 
+#### abi
+
 [abi for unverified contracts](https://abi.w1nt3r.xyz/)
 
 [4byte.directory](https://www.4byte.directory/)
 
-[evm.codes](https://evm.codes/)
-
-[samczsun sigs](https://sig.eth.samczsun.com/)
-
-[input data decoder](https://lab.miguelmota.com/ethereum-input-data-decoder/example/)
+#### fn selectors
 
 [function selector decoder](https://function-selector-decoder.vercel.app/)
 
-[calldata decoder](https://apoorvlathey.com/eth-calldata-decoder/)
+[samczsun sigs](https://sig.eth.samczsun.com/)
+
+[evm.codes](https://evm.codes/)
 
 [hashex abi](https://abi.hashex.org/)
 
-[parsec.finance](https://app.parsec.finance/) 
+#### tx.data
+
+[input data decoder](https://lab.miguelmota.com/ethereum-input-data-decoder/example/)
+
+[calldata decoder](https://apoorvlathey.com/eth-calldata-decoder/)
+
+#### wallet tricks
+
+[ens2hex](https://ens2hex.vercel.app/)
 
 [impersonator](https://www.impersonator.xyz/)
 
-[free rpc nodes](https://ethereumnodes.com/)
+#### analytics
 
-[ens2hex](https://ens2hex.vercel.app/)
+[parsec.finance](https://app.parsec.finance/) 
+
+#### chains
+
+[free rpc nodes](https://ethereumnodes.com/)
 
 [chainlist](https://chainlist.org/)
 
