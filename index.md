@@ -23,3 +23,5 @@
 [free rpc nodes](https://ethereumnodes.com/)
 
 [ens2hex](https://ens2hex.vercel.app/)
+
+curated by [nnnnicholas](https://twitter.com/nnnnicholas)
