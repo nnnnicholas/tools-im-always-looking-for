@@ -1,5 +1,7 @@
 ### tools i'm always looking for
 
+[abi for unverified contracts](https://abi.w1nt3r.xyz/)
+
 [4byte.directory](https://www.4byte.directory/)
 
 [evm.codes](https://evm.codes/)
