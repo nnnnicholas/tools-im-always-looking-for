@@ -24,4 +24,6 @@
 
 [ens2hex](https://ens2hex.vercel.app/)
 
-curated by [nnnnicholas](https://twitter.com/nnnnicholas)
+[chainlist](https://chainlist.org/)
+
+curated by [nnnnicholas](https://twitter.com/nnnnicholas) ([GH](https://github.com/nnnnicholas/tools-im-always-looking-for))
