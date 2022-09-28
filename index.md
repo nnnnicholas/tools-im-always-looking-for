@@ -3,19 +3,19 @@
 ### abi
 
 - [abi for unverified contracts](https://abi.w1nt3r.xyz/)
-- [4byte.directory](https://www.4byte.directory/)
+- [hashex abi](https://abi.hashex.org/)
 
 ### fn selectors
 
-- [function selector decoder](https://function-selector-decoder.vercel.app/)
+- [4byte.directory](https://www.4byte.directory/)
 - [samczsun sigs](https://sig.eth.samczsun.com/)
-- [evm.codes](https://evm.codes/)
-- [hashex abi](https://abi.hashex.org/)
+- [function selector decoder](https://function-selector-decoder.vercel.app/)
 
 ### tx.data
 
 - [input data decoder](https://lab.miguelmota.com/ethereum-input-data-decoder/example/)
 - [calldata decoder](https://apoorvlathey.com/eth-calldata-decoder/)
+- [evm.codes](https://evm.codes/)
 
 ### wallet tricks
 
