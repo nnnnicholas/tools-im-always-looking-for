@@ -1,5 +1,8 @@
 ## tools i'm always looking for
 
+### chain interaction
+- [ethers playground](https://playground.ethers.org/)
+
 ### abi
 
 - [abi for unverified contracts](https://abi.w1nt3r.xyz/)
