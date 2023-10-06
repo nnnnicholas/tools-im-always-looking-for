@@ -3,6 +3,10 @@
 ### chain interaction
 - [ethers playground](https://playground.ethers.org/)
 
+### EVM numbers
+- [swiss knife](https://swiss-knife.xyz/)
+- [eth unit converter](https://eth-converter.com/)
+
 ### abi
 
 - [abi for unverified contracts](https://abi.w1nt3r.xyz/)
