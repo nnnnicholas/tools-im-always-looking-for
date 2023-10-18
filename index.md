@@ -29,6 +29,10 @@
 - [ens2hex](https://ens2hex.vercel.app/)
 - [impersonator](https://www.impersonator.xyz/)
 
+## contract audit
+- [contract reader](https://www.contractreader.io/)
+- [codeslaw](https://www.codeslaw.app/)
+
 ### analytics
 
 - [parsec.finance](https://app.parsec.finance/) 
