@@ -1,5 +1,9 @@
 ## tools i'm always looking for
 
+### contract interaction 
+- [etherfunk](https://etherfunk.io/)
+- [monobase](https://monobase.xyz/)
+
 ### chain interaction
 - [ethers playground](https://playground.ethers.org/)
 
@@ -11,6 +15,8 @@
 
 - [abi for unverified contracts](https://abi.w1nt3r.xyz/)
 - [hashex abi](https://abi.hashex.org/)
+- [abi ninja](https://abi.ninja/)
+- [whatsABI](https://github.com/shazow/whatsabi)
 
 ### fn selectors
 
@@ -41,5 +47,10 @@
 
 - [free rpc nodes](https://ethereumnodes.com/)
 - [chainlist](https://chainlist.org/)
+
+#### L2s 
+- [L2beat](https://l2beat.com/scaling/summary)
+- [rollup.codes](https://www.rollup.codes/)
+- [evm diff](https://www.evmdiff.com/)
 
 curated by [nnnnicholas](https://twitter.com/nnnnicholas) ([GH](https://github.com/nnnnicholas/tools-im-always-looking-for))
