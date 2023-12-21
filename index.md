@@ -24,6 +24,9 @@
 - [samczsun sigs](https://sig.eth.samczsun.com/)
 - [function selector decoder](https://function-selector-decoder.vercel.app/)
 
+## tx audit
+- [eth tx](https://ethtx.info/)
+
 ### tx.data
 
 - [input data decoder](https://lab.miguelmota.com/ethereum-input-data-decoder/example/)
